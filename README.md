@@ -2,6 +2,9 @@
 <p align="center">I'm currently working on <a href="https://github.com/HarryET/DinoCord">DinoCord</a> & Making apps for the Bitcoin SV Blockchain!</p>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 - 🔭 I’m currently working on **Dinocord & Bitcoin SV Blockchain Apps!**
