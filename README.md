@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm HarryET
+
+<img src="https://wakatime.com/share/@ce00e795-3f4c-4650-8279-d5c408a3e64e/a4da0bb6-321f-42ab-9d06-705cc699c7ae.svg" />
+
+🔭 I’m currently working on Dinocord & Bitcoin SV Blockchain Apps!
+🌱 I’m currently learning Rust, C++ & React
+💬 Ask me about the Discord API
+📫 How to reach me: HarryET#2954
 
 <!--
 **HarryET/HarryET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
