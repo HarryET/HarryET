@@ -1,23 +1,10 @@
-### Hi there 👋 I'm HarryET
+<h2 align="center">👋 Hello! I'm HarryET</h2>
+<p align="center">I'm currently working on [DinoCord](https://github.com/HarryET/DinoCord) & Making apps for the Bitcoin SV Blockchain!</p>
 
-<img src="https://wakatime.com/share/@ce00e795-3f4c-4650-8279-d5c408a3e64e/a4da0bb6-321f-42ab-9d06-705cc699c7ae.svg" />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-🔭 I’m currently working on Dinocord & Bitcoin SV Blockchain Apps!
-🌱 I’m currently learning Rust, C++ & React
-💬 Ask me about the Discord API
-📫 How to reach me: HarryET#2954
-
-<!--
-**HarryET/HarryET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Dinocord & Bitcoin SV Blockchain Apps!**
+- 🌱 I’m currently learning **Rust, C++ & React**
+- 💬 Ask me about the **Discord API**
+- 📫 How to reach me: **HarryET#2954**
