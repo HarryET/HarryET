@@ -15,7 +15,7 @@
   <img style="padding-left: 10px;" width="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
   <img style="padding-left: 10px;" width="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
   <img style="padding-left: 10px;" width="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
-</div>
+</p>
 <br>
 <p>Frameworks</p>
 <p style="display: flex; flex-direction: row; justify-content: center; align-items: center; width: 100%;">
@@ -24,7 +24,7 @@
   <img style="padding-left: 10px;" width="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
   <img style="padding-left: 10px;" width="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
   <img style="padding-left: 10px;" width="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-</div>
+</p>
 <br>
 <p>Editors</p>
 <p style="display: flex; flex-direction: row; justify-content: center; align-items: center; width: 100%;">
@@ -33,20 +33,19 @@
   <img style="padding-left: 10px;" width="34" src="https://github.com/HarryET/HarryET/raw/master/assets/icon_CLion.png" />
   <img style="padding-left: 10px;" width="34" src="https://github.com/HarryET/HarryET/raw/master/assets/icon-pycharm.png" />
   <img style="padding-left: 10px;" width="34" src="https://github.com/HarryET/HarryET/raw/master/assets/icon-goland.png" />
-</div>
+</p>
 
 ***
 
-📊 Weekly development breakdown
-<!--START_SECTION:waka-->
-```text
-C#           1 hr 10 mins    ██████████▓░░░░░░░░░░░░░░   43.27 % 
-TypeScript   38 mins         ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
-GraphQL      19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-JSON         14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-Git Config   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-```
-<!--END_SECTION:waka-->
+<p align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+  <p align="center">
+    📊 Weekly development breakdown
+  </p>
+  <p align="center">
+    <a href="https://wakatime.com/@HarryET"><img src="https://wakatime.com/share/@HarryET/681bda84-908a-4a10-9070-a181677c92a8.svg" height="320px"></a>
+  </p>
+</p>
+
 ***
 
 🔭 I’m currently working on **Dinocord & Bitcoin SV Blockchain Apps!**<br>
