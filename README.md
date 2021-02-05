@@ -37,18 +37,7 @@
 
 ***
 
-<p align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
-  <p align="center">
-    📊 Weekly development breakdown
-  </p>
-  <p align="center">
-    <a href="https://wakatime.com/@HarryET"><img src="https://wakatime.com/share/@HarryET/681bda84-908a-4a10-9070-a181677c92a8.svg" height="320px"></a>
-  </p>
-</p>
-
-***
-
-🔭 I’m currently working on **Dinocord & Bitcoin SV Blockchain Apps!**<br>
-🌱 I’m currently learning **Rust, C++ & React**<br>
+🔭 I’m currently working on **Polyweb & Bitcoin SV Blockchain Apps!**<br>
+🌱 I’m currently learning **Rust, C++, C# & React**<br>
 💬 Ask me about the **Discord API**<br>
 📫 How to reach me: [**Discord**](https://discord.gg/8WtCGsn)  [**Twetch**](https://twetch.app/u/17309)<br>
