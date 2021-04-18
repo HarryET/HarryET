@@ -25,7 +25,7 @@
   <img style="padding-left: 10px;" width="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
   <img style="padding-left: 10px;" width="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
   <img style="padding-left: 10px;" width="34" src="https://raw.githubusercontent.com/sveltejs/svelte/29052aba7d0b78316d3a52aef1d7ddd54fe6ca84/site/static/images/svelte-android-chrome-512.png" />
-  <img style="padding-left: 10px;" width="34" src="https://plugins.jetbrains.com/files/16008/116015/icon/pluginIcon.png"/>
+  <img style="padding-left: 10px;" height="34" src="https://user-images.githubusercontent.com/29015545/115156888-74c01180-a07e-11eb-8216-999fb4c17c32.png"/>
 </p>
 <br>
 <h4>Databases</h4>
@@ -52,7 +52,6 @@
 <h4>OS</h4>
 <p style="display: flex; flex-direction: row; justify-content: center; align-items: center; width: 100%;">
   <img style="padding-left: 10px;" width="34" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png" />
-  <img style="padding-left: 10px;" width="34" src="https://img.favpng.com/3/19/9/debian-logo-linux-ubuntu-fedora-png-favpng-gip39mvVQTYmxq8v4csuHbRy3.jpg" />
   <img style="padding-left: 10px;" width="34" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" />
 </p>
 
