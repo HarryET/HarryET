@@ -57,7 +57,7 @@
 
 ***
 
-🔭 I’m currently working on **Polyweb & Bitcoin SV Blockchain Apps!**<br>
-🌱 I’m currently learning about **Parsers, ASTs & TCP**<br>
+🔭 I’m currently working on **[Redacted]**<br>
+🌱 I’m currently learning about **Supabase & Flutter Web**<br>
 💬 Ask me about the **Discord API and HTTP**<br>
-📫 How to reach me: **Discord**(HarryET#2954) [**Twitter**](https://twitter.com/TheHarryET) [**Twetch**](https://twetch.app/u/17309)<br>
+📫 How to reach me: **Discord**(HarryET#2954) [**Twitter**](https://twitter.com/TheHarryET)<br>
