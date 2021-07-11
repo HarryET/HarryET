@@ -32,6 +32,7 @@
 <p style="display: flex; flex-direction: row; justify-content: center; align-items: center; width: 100%;">
   <img style="padding-left: 10px;" width="34" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png" />
   <img style="padding-left: 10px;" width="34" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-226029.png" />
+  <img style="padding-left: 10px;" width="34" src="https://github.com/supabase/supabase/raw/master/web/static/favicon.png" />
 </p>
 <br>
 <h4>Editors</h4>
