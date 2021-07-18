@@ -33,6 +33,8 @@
   <img style="padding-left: 10px;" width="34" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png" />
   <img style="padding-left: 10px;" width="34" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-226029.png" />
   <img style="padding-left: 10px;" width="34" src="https://github.com/supabase/supabase/raw/master/web/static/favicon.png" />
+  <img style="padding-left: 10px;" width="34" src="https://www.scylladb.com/wp-content/uploads/BlinkJump_Animation_07_Shadow_193b6c-1.gif" />
+  <img style="padding-left: 10px;" width="34" src="https://redis.io/images/redis-small.png" />
 </p>
 <br>
 <h4>Editors</h4>
