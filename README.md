@@ -56,6 +56,8 @@
 <p style="display: flex; flex-direction: row; justify-content: center; align-items: center; width: 100%;">
   <img style="padding-left: 10px;" width="34" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png" />
   <img style="padding-left: 10px;" width="34" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" />
+  <img style="padding-left: 10px;" width="34" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kubuntu_logo.svg/600px-Kubuntu_logo.svg.png" />
+  <img style="padding-left: 10px;" width="27" height="34" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/1200px-Openlogo-debianV2.svg.png" />
 </p>
 
 ***
