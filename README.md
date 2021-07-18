@@ -62,7 +62,7 @@
 
 ***
 
-🔭 I’m currently working on **[Redacted]**<br>
-🌱 I’m currently learning about **Supabase & Flutter Web**<br>
-💬 Ask me about the **Discord API and HTTP**<br>
+🔭 I’m currently working on **[Cosmos Chat](https://github.com/cosmoschat) & [Nyxx](https://github.com/l7ssha/nyxx/)**<br>
+🌱 I’m currently learning about **[Rocket](https://rocket.rs)**<br>
+💬 Ask me about the **[Discord API](https://discord.com/developers/docs/intro) and [HTTP](https://datatracker.ietf.org/doc/html/rfc7540)**<br>
 📫 How to reach me: **Discord**(HarryET#2954) [**Twitter**](https://twitter.com/TheHarryET)<br>
