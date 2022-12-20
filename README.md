@@ -44,21 +44,25 @@
     },
     "projects": [
         {
-            "url": "https://github-chat.com",
-            "description": "A chat room for every GitHub repository. Real-time.",
-            "tags": ["hackathon"],
-            "languages": ["typescript"],
-            "tools": ["Next.js", "Supabase", "Vercel"]
+            "name": "WalletConnect",
+            "org": "https://github.com/walletconnect",
+            "role": "employee",
+            "description": "Distributed Systems Engineer",
+            "repos": ["echo-server", "a2", "gotrue"],
+            "tags": ["work", "push-notifications"],
+            "languages": ["rust", "golang"],
+            "tools": ["terraform", "github actions"]
         },
         {
-            "url": "https://custodi-six.vercel.app",
-            "description": "Open source Sentry alternative.",
-            "tags": ["hackathon"],
-            "languages": ["typescript"],
-            "tools": ["Next.js", "Supabase", "Vercel"]
-        }
-    ],
-    "open_source": [
+            "name": "Gleam",
+            "org": "https://github.com/gleam-lang",
+            "role": "contributor",
+            "description": "Contributing to the compiler and building the ecosystem",
+            "repos": ["gleam-lang"],
+            "tags": ["language", "open-source"],
+            "languages": ["rust", "gleam"],
+            "tools": ["hex.pm", "github actions"]
+        },
         {
             "name": "Nyxx",
             "org": "https://github.com/nyxx-discord",
@@ -67,7 +71,7 @@
             "repos": ["nyxx", "nyxx_interactions", "running_on_dart", "glacier"],
             "tags": ["library", "discord-api"],
             "languages": ["dart"],
-            "tools": ["GitHub Actions"]
+            "tools": ["gitHub actions"]
         },
         {
             "name": "Supabase",
@@ -85,7 +89,7 @@
 
 ***
 
-🔭 I’m currently working on **[Cosmos Chat](https://github.com/cosmoschat) & [Nyxx](https://github.com/l7ssha/nyxx/)**<br>
-🌱 I’m currently learning about **[Rocket](https://rocket.rs)**<br>
+🔭 I’m currently working on **[Shimmer](https://github.com/harryet/shimmer), [Gleam](https://github.com/gleam-lang/gleam) & [WalletConnect](https://walletconnect.com)**<br>
+🌱 I’m currently learning about **[Private Set Intersection](https://harryet.xyz/research/psi.pdf)**<br>
 💬 Ask me about the **[Discord API](https://discord.com/developers/docs/intro) and [HTTP](https://datatracker.ietf.org/doc/html/rfc7540)**<br>
-📫 How to reach me: **Discord**(HarryET#2954) [**Twitter**](https://twitter.com/TheHarryET)<br>
+📫 How to reach me: [**Twitter**](https://twitter.com/TheHarryET)<br>
