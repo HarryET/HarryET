@@ -1,6 +1,5 @@
 # Harry Bairstow
 
-18. Building [container.inc](https://container.inc) at @ Founder's Inc. Prev @ WalletConnect, Felicis, Lit Protocol
+19. Software @ [Inference](https://inference.net). Prev @ Founder's Inc, Lit Protocol, WalletConnect, Felicis
 
-* twitter, [@theharryet](https://twitter.com/theharryet)
-* [me@harryet.xyz](mailto:me@harryet.xyz)
+* x, [@theharryet](https://twitter.com/theharryet)
